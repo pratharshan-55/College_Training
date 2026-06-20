@@ -11,7 +11,7 @@
         Arrays.sort(ar);
         double b=0;
         if((m+n)%2!=0){
-         b=ar[(m+n)/2];
+         b=ar[(m+n)/2];vd
         }
         else{
          b=(ar[(m+n)/2]+ar[(m+n)/2-1])/2.00000;
